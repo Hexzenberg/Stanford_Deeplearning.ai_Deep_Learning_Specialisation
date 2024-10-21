@@ -1,1 +1,4 @@
-# Stanford_Deeplearning.ai_Deep_Learning_Specialisation
+# Repository for the Stanford Deeplearning.ai Deep Learning Specialisation.
+
+##### This repository has the assignment and the optional lab notebooks that I had to complete in the specialisation.
+
